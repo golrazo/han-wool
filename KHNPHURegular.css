@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'KHNPHanuoolim';
+    src: url('KHNPHURegular.eot');
+    src: url('KHNPHURegular.eot?#iefix') format('embedded-opentype'),
+        url('KHNPHURegular.woff2') format('woff2'),
+        url('KHNPHURegular.woff') format('woff'),
+        url('KHNPHURegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
